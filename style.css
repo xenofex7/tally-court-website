@@ -72,7 +72,7 @@ footer a { color: var(--muted); }
 .shots {
   display: flex; gap: 16px; justify-content: center; flex-wrap: nowrap;
   position: relative; left: 50%; transform: translateX(-50%);
-  width: min(94vw, 940px); margin: 6px 0 8px;
+  width: min(94vw, 940px); margin: 20px 0 48px;
 }
 .shots img {
   flex: 1 1 0; min-width: 0; max-width: 220px; height: auto; border-radius: 18px;
