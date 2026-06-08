@@ -15,7 +15,7 @@
   <a href="https://xenofex7.github.io/tally-court-website/"><strong>xenofex7.github.io/tally-court-website</strong></a>
 </p>
 
-Public companion website for the Tally Court app (a tennis and badminton scorekeeper for Apple Watch and iPhone). It is a small static site served via GitHub Pages and provides the App Store landing page plus the legally required privacy policy and support pages. No build step, no dependencies.
+Public companion website for the Tally Court app (a racket and rally sport scorekeeper for Apple Watch and iPhone). It is a small static site served via GitHub Pages and provides the App Store landing page plus the legally required privacy policy and support pages. No build step, no dependencies.
 
 ## Pages
 
