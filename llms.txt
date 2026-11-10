@@ -1,0 +1,24 @@
+# Tally Court
+
+> Scorekeeper for racket and rally sports on Apple Watch and iPhone: tennis, padel, pickleball, badminton, squash, table tennis and beach volleyball.
+
+## Features
+
+- Two big tap zones, a clear score, a serve indicator and full match history
+- Tennis and padel: sets, tiebreaks, no-ad
+- Badminton, pickleball, squash, table tennis, beach volleyball: points, win-by, cap
+- Watch-first, with an iPhone companion that uses the same scoring engine
+- Settings and match history sync between iPhone and Apple Watch
+- Optional workout with live heart rate via Apple Health
+- No account, no ads, no tracking, no data collected
+
+## Requirements
+
+- iPhone with iOS 17 or later and/or Apple Watch with watchOS 10 or later
+
+## Links
+
+- App Store: https://apps.apple.com/app/id6776566859
+- Website: https://xenofex7.github.io/tally-court-website/
+- Privacy: https://xenofex7.github.io/tally-court-website/privacy.html
+- Support: https://xenofex7.github.io/tally-court-website/support.html
